@@ -1,6 +1,6 @@
 # Multi-Layer Perceptron with Three Inputs
 
-A simple Multi-Layer Perceptron (MLP) classification example using Scikit-Learn's `MLPClassifier`, modified from Example 4.2 to use **three input features instead of two**.
+A simple Multi-Layer Perceptron (MLP) classification example using Scikit-Learn's `MLPClassifier`.
 
 This project demonstrates how the input dimensionality of a neural network can be changed while maintaining the same basic MLP architecture.
 
